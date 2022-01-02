@@ -1,5 +1,5 @@
 # BoardWeb
-Spring Qui Start 실습 코드
+Spring Quick Start 실습 코드
 
 ## Index
 * Day01> Spring IOC를 이용한 비즈니스 컴포넌트 만들기   
