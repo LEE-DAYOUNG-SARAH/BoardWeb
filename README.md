@@ -1,9 +1,23 @@
-# BoardWeb
-Spring Quick Start 실습 코드
+# Spring Quick Start
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleeshinyook%2FSpring-basic&psig=AOvVaw3eDVHbJ5Yb6WG2RPuR-Qpo&ust=1641209747756000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjCpfL8kvUCFQAAAAAdAAAAABAD.png" witdh="200" height="400" />
+
+## spring-quick-start
+
+`스프링 퀵 스타트, 저자 : 채규태`
+
+위 책을 공부하면서 배운 내용을 정리했습니다.
 
 ## Index
-* Day01> Spring IOC를 이용한 비즈니스 컴포넌트 만들기   
-* Day02> Spring AOP를 이용한 공통 서비스 만들기 / Spring DAO를 이용한 데이터베이스 연동 및 트랜잭션 처리   
-* Day03> Spring MVC를 이용한 MVC 아키텍쳐 적용하기   
-* Day04> Spring MVC의 부가기능 사용하기(파일 업로드, 다국어, 예외 처리 등)   
-* Day05> Spring MyBatis 연동하기 / Spring과 JPA 연동하기   
+* Day01   
+ + Spring IOC를 이용한 비즈니스 컴포넌트 만들기   
+* Day02   
+ + Spring AOP를 이용한 공통 서비스 만들기 / Spring DAO를 이용한 데이터베이스 연동 및 트랜잭션 처리   
+* Day03   
+ + Spring MVC를 이용한 MVC 아키텍쳐 적용하기   
+* Day04   
+ + Spring MVC의 부가기능 사용하기(파일 업로드, 다국어, 예외 처리 등)   
+* Day05   
+ + Spring MyBatis 연동하기 / Spring과 JPA 연동하기   
+
+
+  
