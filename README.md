@@ -1,5 +1,5 @@
 # Spring Quick Start
-<img src="https://user-images.githubusercontent.com/78137352/147874693-36f89bc9-5899-4d4c-8c1f-627730fd0b2b.png" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/78137352/147874693-36f89bc9-5899-4d4c-8c1f-627730fd0b2b.png" width="300" height="400"/>
 
 ## spring-quick-start
 
