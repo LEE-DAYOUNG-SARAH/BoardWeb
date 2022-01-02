@@ -1,8 +1,6 @@
 # Spring Quick Start
 <img src="https://user-images.githubusercontent.com/78137352/147874693-36f89bc9-5899-4d4c-8c1f-627730fd0b2b.png" width="300" height="400"/>
 
-## spring-quick-start
-
 `스프링 퀵 스타트, 저자 : 채규태`
 
 위 책을 공부하면서 배운 내용을 정리했습니다.
